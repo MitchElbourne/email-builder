@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+aside {
+  background: #ddd;
+  border-bottom: 1px solid #777;
+}
+aside a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+}
+aside a.active {
+  font-weight: bolder;
+}
+
+main {
+
+}
